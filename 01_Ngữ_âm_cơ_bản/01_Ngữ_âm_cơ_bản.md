@@ -1,1 +1,34 @@
-XIN CHÀO CẢ NHÀ
+# 30 Days of Learning: English Language
+
+| Ngày | Chủ đề                                          | Nhiệm vụ                                                                                                                                       |
+|------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 01   | [Ngữ âm cơ bản](01_Ngữ_âm_cơ_bản)              | Học cách phát âm các nguyên âm và phụ âm cơ bản. Tìm hiểu bảng chữ cái tiếng Anh. Mục tiêu: Nắm vững cách phát âm 5 nguyên âm và 21 phụ âm. |
+| 02   | [Từ vựng cơ bản](02_Từ_vựng_cơ_bản)           | Tập trung vào từ vựng cơ bản: danh từ và động từ thông dụng (ví dụ: house, book, go, eat). Mục tiêu: Học 10 từ mới và sử dụng chúng trong câu đơn giản. |
+| 03   | [Từ vựng tính từ và trạng từ](03_Từ_vựng_tính_từ_và_trạng_từ) | Tiếp tục mở rộng từ vựng với các tính từ và trạng từ cơ bản (ví dụ: big, small, quickly, slowly). Mục tiêu: Học 10 từ mới và viết 5 câu mô tả. |
+| 04   | [Ôn tập ngữ âm và từ vựng](04_Ôn_tập_ngữ_âm_và_từ_vựng)         | Ôn tập ngữ âm và từ vựng đã học. Sử dụng ứng dụng học từ vựng (như Duolingo hoặc Memrise). Mục tiêu: Làm bài tập để củng cố từ vựng.        |
+| 05   | [Cấu trúc câu cơ bản](05_Cấu_trúc_câu_cơ_bản)                  | Học cấu trúc câu cơ bản: câu khẳng định và câu phủ định. Mục tiêu: Viết 5 câu khẳng định và 5 câu phủ định.                              |
+| 06   | [Đại từ (Pronouns)](06_Đại_từ)                    | Tìm hiểu về đại từ và cách sử dụng chúng. Mục tiêu: Học 10 đại từ và viết 5 câu sử dụng đại từ.                                           |
+| 07   | [Ôn tập tuần 1](07_Ôn_tập_tuần_1)                   | Ôn tập tất cả nội dung đã học trong tuần. Nghe nhạc tiếng Anh và cố gắng hiểu lời bài hát. Mục tiêu: Nghe ít nhất 1 bài hát tiếng Anh và viết lại những từ quen thuộc. |
+| 08   | [Ngữ pháp cơ bản - Thì hiện tại đơn](08_Ngữ_pháp_cơ_bản_-_Thì_hiện_tại_đơn) | Học về thì hiện tại đơn và cách sử dụng. Mục tiêu: Viết 5 câu sử dụng thì hiện tại đơn.                                                     |
+| 09   | [Hỏi và trả lời câu hỏi](09_Hỏi_và_trả_lời_câu_hỏi)         | Học cách hỏi và trả lời câu hỏi đơn giản. Mục tiêu: Tạo 5 câu hỏi và 5 câu trả lời.                                                       |
+| 10   | [Thì quá khứ đơn](10_Thì_quá_khứ_đơn)                     | Tìm hiểu về thì quá khứ đơn. Mục tiêu: Viết 5 câu về hoạt động đã xảy ra trong quá khứ.                                                    |
+| 11   | [Thực hành giao tiếp](11_Thực_hành_giao_tiếp)              | Tham gia vào một buổi học tiếng Anh online hoặc trò chuyện với bạn bè. Mục tiêu: Thực hành giao tiếp ít nhất 15 phút.                    |
+| 12   | [Từ vựng chủ đề gia đình và bạn bè](12_Từ_vựng_chủ_đề_gia_đình_và_bạn_bè) | Học từ vựng liên quan đến chủ đề gia đình và bạn bè. Mục tiêu: Học 10 từ mới và viết đoạn văn ngắn về gia đình.                           |
+| 13   | [Ôn tập ngữ pháp và từ vựng](13_Ôn_tập_ngữ_pháp_và_từ_vựng)         | Ôn tập ngữ pháp và từ vựng đã học. Làm bài tập ngữ pháp online. Mục tiêu: Hoàn thành 3 bài tập ngữ pháp.                                 |
+| 14   | [Ngữ pháp - Thì tương lai đơn](14_Ngữ_pháp_-_Thì_tương_lai_đơn)   | Tìm hiểu về thì tương lai đơn và cách sử dụng. Mục tiêu: Viết 5 câu dự đoán về tương lai.                                                  |
+| 15   | [Thực hành giao tiếp](15_Thực_hành_giao_tiếp)              | Đặt câu hỏi về ngày hôm nay hoặc kế hoạch cho ngày mai. Mục tiêu: Nói chuyện với ai đó về kế hoạch của bạn.                                |
+| 16   | [Từ vựng về thời tiết](16_Từ_vựng_về_thời_tiết)            | Học từ vựng về thời tiết và mùa trong tiếng Anh. Mục tiêu: Học 10 từ mới và viết 5 câu mô tả thời tiết hôm nay.                          |
+| 17   | [Giới từ chỉ vị trí](17_Giới_từ_chỉ_vị_trí)                  | Tìm hiểu về các giới từ chỉ vị trí. Mục tiêu: Viết 5 câu mô tả vị trí đồ vật trong phòng.                                                  |
+| 18   | [Từ vựng thực phẩm và đồ uống](18_Từ_vựng_thực_phẩm_và_đồ_uống) | Học từ vựng liên quan đến thực phẩm và đồ uống. Mục tiêu: Học 10 từ mới và viết đoạn văn về bữa ăn yêu thích.                           |
+| 19   | [Nghe và hiểu tiếng Anh](19_Nghe_và_hiểu_tiếng_Anh)          | Tập trung vào việc nghe và hiểu tiếng Anh qua video hoặc podcast. Mục tiêu: Nghe ít nhất 10 phút nội dung tiếng Anh và viết lại những gì bạn hiểu. |
+| 20   | [Diễn đạt cảm xúc và ý kiến](20_Diễn_đạt_cảm_xúc_và_ý_kiến)    | Học cách diễn đạt cảm xúc và ý kiến (ví dụ: I like, I feel). Mục tiêu: Viết 5 câu diễn đạt cảm xúc cá nhân.                               |
+| 21   | [Thực hành giao tiếp](21_Thực_hành_giao_tiếp)              | Tham gia nhóm học hoặc trò chuyện với người bản ngữ. Mục tiêu: Thực hành nói chuyện ít nhất 20 phút.                                     |
+| 22   | [Từ vựng sở thích và hoạt động giải trí](22_Từ_vựng_sở_thích_và_hoạt_động_giải_trí) | Học từ vựng liên quan đến sở thích và hoạt động giải trí. Mục tiêu: Học 10 từ mới và viết đoạn văn về sở thích của bạn.                  |
+| 23   | [Ôn tập ngữ pháp và từ vựng](23_Ôn_tập_ngữ_pháp_và_từ_vựng)         | Ôn tập ngữ pháp và từ vựng đã học. Làm bài kiểm tra từ vựng. Mục tiêu: Hoàn thành bài kiểm tra từ vựng và ngữ pháp.                     |
+| 24   | [Viết email đơn giản](24_Viết_email_đơn_giản)                | Học cách viết email đơn giản và cách chào hỏi. Mục tiêu: Viết một email ngắn cho bạn bè.                                                 |
+| 25   | [Thực hành nghe](25_Thực_hành_nghe)                         | Xem một bộ phim hoặc chương trình tiếng Anh với phụ đề. Mục tiêu: Ghi chú lại những câu hoặc từ mới.                                     |
+| 26   | [Từ vựng nghề nghiệp](26_Từ_vựng_nghề_nghiệp)                | Học từ vựng về nghề nghiệp và công việc. Mục tiêu: Học 10 từ mới và viết đoạn văn về nghề nghiệp bạn thích.                             |
+| 27   | [Thực hành giao tiếp](27_Thực_hành_giao_tiếp)              | Tham gia một buổi thảo luận hoặc hội thảo tiếng Anh. Mục tiêu: Nói chuyện với người khác về chủ đề bạn thích.                           |
+| 28   | [Mô tả hình ảnh và đối tượng](28_Mô_tả_hình_ảnh_và_đối_tượng) | Học cách mô tả hình ảnh và đối tượng. Mục tiêu: Viết 5 câu mô tả một bức tranh hoặc đồ vật.                                              |
+| 29   | [Thực hành nghe](29_Thực_hành_nghe)                         | Nghe một bản podcast tiếng Anh và ghi chú lại những điểm chính. Mục tiêu: Viết tóm tắt ngắn gọn nội dung đã nghe.                        |
+| 30   | [Tổng kết và tự đánh giá](30_Tổng_kết_và_tự_đánh_giá)       | Tổng kết những gì đã học trong 30 ngày qua. Tự đánh giá mức độ tiến bộ và lập kế hoạch cho việc học tiếp theo.                            |
