@@ -2,7 +2,7 @@
 
 | Ngày | Chủ đề                                          | Nhiệm vụ                                                                                                                                       |
 |------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 01   | [Ngữ âm cơ bản](01_Ngữ_âm_cơ_bản)              | Học cách phát âm các nguyên âm và phụ âm cơ bản. Tìm hiểu bảng chữ cái tiếng Anh. Mục tiêu: Nắm vững cách phát âm 5 nguyên âm và 21 phụ âm. |
+| 01   | [Ngữ âm cơ bản](01_Ngữ_âm_cơ_bản.md)              | Học cách phát âm các nguyên âm và phụ âm cơ bản. Tìm hiểu bảng chữ cái tiếng Anh. Mục tiêu: Nắm vững cách phát âm 5 nguyên âm và 21 phụ âm. |
 | 02   | [Từ vựng cơ bản](02_Từ_vựng_cơ_bản)           | Tập trung vào từ vựng cơ bản: danh từ và động từ thông dụng (ví dụ: house, book, go, eat). Mục tiêu: Học 10 từ mới và sử dụng chúng trong câu đơn giản. |
 | 03   | [Từ vựng tính từ và trạng từ](03_Từ_vựng_tính_từ_và_trạng_từ) | Tiếp tục mở rộng từ vựng với các tính từ và trạng từ cơ bản (ví dụ: big, small, quickly, slowly). Mục tiêu: Học 10 từ mới và viết 5 câu mô tả. |
 | 04   | [Ôn tập ngữ âm và từ vựng](04_Ôn_tập_ngữ_âm_và_từ_vựng)         | Ôn tập ngữ âm và từ vựng đã học. Sử dụng ứng dụng học từ vựng (như Duolingo hoặc Memrise). Mục tiêu: Làm bài tập để củng cố từ vựng.        |
